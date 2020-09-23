@@ -1,6 +1,6 @@
 {
   "name": "iscript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parses iscript.bin",
   "main": "index.js",
   "author": "Alex Pineda <alexpineda@fastmail.com>",
@@ -11,5 +11,5 @@
   },
   "keywords": [
     "starcraft"
-  ],
+  ]
 }
