@@ -70,7 +70,7 @@ const IScriptOPCodes = [
   ["randcondjmp", [typeByte, typeLabel]],
   ["turnccwise", [typeByte]],
   ["turncwise", [typeByte]],
-  [["turn1cwise", "turnlcwise"], []],
+  ["turn1cwise", []],
   ["turnrand", [typeByte]],
   ["setspawnframe", [typeByte]],
   ["sigorder", [typeSignalId]],

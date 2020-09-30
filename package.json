@@ -1,6 +1,6 @@
 {
   "name": "iscript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "parses iscript.bin",
   "main": "index.js",
   "author": "Alex Pineda <alexpineda@fastmail.com>",
